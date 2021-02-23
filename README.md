@@ -3,8 +3,8 @@
 Esse repositório inclui apenas os pacotes pré-compilado mais comuns para arquitetura x86_64 do Slackware (Stable).
 
 Página inicial:      https://slackware.com/ <br/>
-Suporte:             https://www.linuxquestions.org/questions/slackware-14/
-Relatório de erro:   https://www.linuxquestions.org/questions/slackware-14/
+Suporte:             https://www.linuxquestions.org/questions/slackware-14/ <br/>
+Relatório de erro:   https://www.linuxquestions.org/questions/slackware-14/ <br/>
 
 
 Pacote de terceiros: https://slackbuilds.org
