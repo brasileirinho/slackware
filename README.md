@@ -23,6 +23,7 @@ Exemplo:
 
 Obs: Dependendo do pacote pode possui uma série de dependências.
 
+```javascript
 
 which sbopkg
 /usr/sbin/sbopkg
@@ -53,4 +54,6 @@ ls -l /var/log/packages/ | grep -i wvdial
 
 which wvdial
 /usr/bin/wvdial
+
+```
 
