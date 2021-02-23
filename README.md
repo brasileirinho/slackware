@@ -2,7 +2,7 @@
 
 Esse repositório inclui apenas os pacotes pré-compilado mais comuns para arquitetura x86_64 do Slackware (Stable).
 
-Página inicial:      https://slackware.com/
+Página inicial:      https://slackware.com/ <br/>
 Suporte:             https://www.linuxquestions.org/questions/slackware-14/
 Relatório de erro:   https://www.linuxquestions.org/questions/slackware-14/
 
@@ -23,8 +23,6 @@ Exemplo:
 
 Obs: Dependendo do pacote pode possui uma série de dependências.
 
-,,,
-javascript
 
 which sbopkg
 /usr/sbin/sbopkg
@@ -55,4 +53,4 @@ ls -l /var/log/packages/ | grep -i wvdial
 
 which wvdial
 /usr/bin/wvdial
-,,,
+
