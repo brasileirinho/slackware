@@ -10,7 +10,7 @@ Relatório de erro:   https://www.linuxquestions.org/questions/slackware-14/ <br
 Pacote de terceiros: https://slackbuilds.org
 
 
-O que são os Slackbuilds
+### O que são os Slackbuilds
 
 São shell scripts com a função de automatizar a criação de pacotes tgz para o Slackware, e devem se encontrar no 
 diretório source do programa a partir do qual será gerado o pacote tgz.
