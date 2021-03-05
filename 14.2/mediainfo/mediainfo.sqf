@@ -1,1 +1,3 @@
-
+libzen
+libmediainfo
+mediainfo
