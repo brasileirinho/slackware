@@ -1,1 +1,10 @@
-
+gnome-menus
+gnome-common
+json-glib
+libdbusmenu
+vala
+libgee
+libwnck3
+libgtop
+bamf
+plank
