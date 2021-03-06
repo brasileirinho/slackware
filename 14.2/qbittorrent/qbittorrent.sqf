@@ -1,1 +1,2 @@
-
+libtorrent-rasterbar-legacy
+qbittorrent
