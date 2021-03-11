@@ -1,1 +1,3 @@
-
+virtualbox-kernel
+acpica
+virtualbox
